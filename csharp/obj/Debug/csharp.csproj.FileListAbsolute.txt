@@ -1,0 +1,16 @@
+C:\Challenge01\csharp\bin\Debug\csharp.exe.config
+C:\Challenge01\csharp\bin\Debug\csharp.exe
+C:\Challenge01\csharp\bin\Debug\csharp.pdb
+C:\Challenge01\csharp\bin\Debug\ApprovalTests.dll
+C:\Challenge01\csharp\bin\Debug\ApprovalUtilities.dll
+C:\Challenge01\csharp\bin\Debug\ApprovalUtilities.Net45.dll
+C:\Challenge01\csharp\bin\Debug\nunit.framework.dll
+C:\Challenge01\csharp\bin\Debug\ApprovalTests.xml
+C:\Challenge01\csharp\bin\Debug\ApprovalUtilities.xml
+C:\Challenge01\csharp\bin\Debug\ApprovalUtilities.Net45.xml
+C:\Challenge01\csharp\bin\Debug\nunit.framework.xml
+C:\Challenge01\csharp\obj\Debug\csharp.csproj.AssemblyReference.cache
+C:\Challenge01\csharp\obj\Debug\csharp.csproj.CoreCompileInputs.cache
+C:\Challenge01\csharp\obj\Debug\csharp.csproj.CopyComplete
+C:\Challenge01\csharp\obj\Debug\csharp.exe
+C:\Challenge01\csharp\obj\Debug\csharp.pdb
