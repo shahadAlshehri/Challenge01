@@ -16,9 +16,14 @@
 
 Code Smell:
 
-Definition: 
+- Duplicated Code: identical or very similar code that exists in more than one location.
 
-Solution:
+- Long Function: A method has too many lines of code, making it hard to understand
+
+
+
+
+Solution: using call functions to reduce duplicate code
 
 
 > p.s. your refactored function have to work just like how the old `UpdateQuality()` function was working
